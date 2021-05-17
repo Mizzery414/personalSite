@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../Desktop/amra"
+    },
+    {
+      "path": "../../Web Development"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Web Development"
+  }
+}
